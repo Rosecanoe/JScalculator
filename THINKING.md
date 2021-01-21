@@ -1,7 +1,6 @@
 # 一、思路梳理
-源码：
 <a href="https://www.cnblogs.com/imyeah/archive/2011/12/28/2304197.html" target="_blank">源码</a>
-计算器有三部分组成：外观+运算。
+计算器由两部分组成：外观+运算。
 外观部分由html和css实现。重难点在使用JS进行运算实现。
 
 ## （一）外观
